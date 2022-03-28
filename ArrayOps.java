@@ -5,8 +5,6 @@ File name : ArrayOps.java
 
 Name (First Last) : Chen Asraf
 
-Student ID : 204693022
-
 Email : chen.asraf@post.idc.ac.il
 
 */
