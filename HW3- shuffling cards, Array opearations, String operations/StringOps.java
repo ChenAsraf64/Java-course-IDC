@@ -5,8 +5,6 @@ File name : StringOps.java
 
 Name (First Last) : Chen Asraf
 
-Student ID : 204693022
-
 Email : chen.asraf@post.idc.ac.il
 
 */
@@ -92,7 +90,7 @@ public class StringOps {
 	/**
 	 * Returns true if the given string is a palindrome, and false otherwise.
 	 * Non-alphabetic characters and casing are ignored. For example, "Madam, in
-	 * Eden, I’m Adam." is a palindrome.
+	 * Eden, Iâ€™m Adam." is a palindrome.
 	 */
 	// Hint: This function can be implemented elegantly and simply by using other
 	// functions in this class.
